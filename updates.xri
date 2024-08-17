@@ -2,11 +2,27 @@
 <xri version="1.0">
    <description>
       <p>
-		Unoficial documentation for some PixInsight processes
+		Unoficial documentation for some PixInsight tools.
+     </p>
+      <p>
+     The document6ation has been written by Jean-Marc Lugrin (alias bitli)
+     based on aquired knowledge, source code, tip tools, trials, examination of source code
+     and information publicly availlable in forums or other public pages. <br/>
+     I intentionally did not subscribe or looked at payed content, 
+     to avoid unintentional use of copyright content. 
+     Nevertheless most payed content is generally highly regarded 
+     and I encourage you to get it for more tutorial and complete information. <br/>
+     Part of the text has been rewritten by various AI engines to limit language errors.<br/>
+     Feedback can be provided on the PixInsight forums.
+     </p>
+      <p>
+     These documents are provided for convenience of users 
+     but have not been reviewed by Pleiades Astrophoto. 
+     There is no guarantee that is is complete or correct - use at you own risks.
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="ProcessContainer-doc-v1.0.0.zip" sha1="eb9f666d83ba6ad1e9429084ec8f6cff2e08b64d" type="documentation" releaseDate="20240816">
+      <package fileName="ProcessContainer-doc.zip" sha1="e3ee972b57ffcffa338bb0a48ed8e1ba0dbef4c9" type="documentation" releaseDate="20240817">
          <title>
             Unoficial documentation of Process Container
          </title>
@@ -14,10 +30,23 @@
             <p>
                Unoficial documentation of ProcessContainer.
                This is provided for convenience of users but there is no guarantee that is is complete or correct.
-               Use at you own risks.
+               Use at you own risks. <br/>
+               Includes some remarks of Fred Vanner.
+            </p>
+         </description>
+      </package>
+      <package fileName="PixelMath-doc.zip" sha1="0c51effc0bd4f3a08a9db61bf90a6915d90b9db3" type="documentation" releaseDate="20240817">
+         <title>
+            Unoficial documentation of PixelMath
+         </title>
+         <description>
+            <p>
+               Unoficial documentation of PixelMath.
+               This is provided for convenience of users but there is no guarantee that is is complete or correct.
+               Use at you own risks. <br/>
             </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="bitli" timestamp="2024-08-17T05:00:15.321Z" encoding="Base64">8i6PWxRwfU2M/o7wIEITmSKJ2+8scV2LhVBKZ0GwK8R/thfzZf0VoYCoUniTD7uzEb0aWPYBOUY/fL4Xi6ulDw==</Signature>
+<Signature developerId="bitli" timestamp="2024-08-17T09:35:54.181Z" encoding="Base64">K6eM4N7fzHhmrihdZaolAtSMDdwUBjZWCx/x92XolB+/hJUNERJeY7JFVgNxo2KiXh6OPQft+ZFtBFVVcyXzCg==</Signature>
