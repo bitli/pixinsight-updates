@@ -3,26 +3,74 @@
    <description>
       <p>
 		Unoficial documentation for some PixInsight tools.
-     </p>
+      </p>
       <p>
-     The document6ation has been written by Jean-Marc Lugrin (alias bitli)
-     based on aquired knowledge, source code, tip tools, trials, examination of source code
-     and information publicly availlable in forums or other public pages. <br/>
-     I intentionally did not subscribe or looked at payed content, 
-     to avoid unintentional use of copyright content. 
-     Nevertheless most payed content is generally highly regarded 
-     and I encourage you to get it for more tutorial and complete information. <br/>
-     Part of the text has been rewritten by various AI engines to limit language errors.<br/>
-     Feedback can be provided on the PixInsight forums.
-     </p>
+      The document6ation has been written by Jean-Marc Lugrin (alias bitli)
+      based on aquired knowledge, source code, tip tools, trials, examination of source code
+      and information publicly availlable in forums or other public pages. <br/>
+      I intentionally did not subscribe or looked at payed content, 
+      to avoid unintentional use of copyright content. 
+      Nevertheless most payed content is generally highly regarded 
+      and I encourage you to get it for more tutorial and complete information. <br/>
+      Part of the text has been rewritten by various AI engines to limit language errors.<br/>
+      Feedback can be provided on the PixInsight forums.
+      </p>
       <p>
-     These documents are provided for convenience of users 
-     but have not been reviewed by Pleiades Astrophoto. 
-     There is no guarantee that is is complete or correct - use at you own risks.
+      These documents are provided for convenience of users 
+      but have not been reviewed by Pleiades Astrophoto. 
+      There is no guarantee that is is complete or correct - use at you own risks.
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="ProcessContainer-doc.zip" sha1="e3ee972b57ffcffa338bb0a48ed8e1ba0dbef4c9" type="documentation" releaseDate="20240817">
+      <package fileName="AssignICCProfile-doc.zip" sha1="0cf824583e01e8d9b6731351458494436d446537" type="documentation" releaseDate="20240926">
+         <title>
+            Unoficial documentation of AssignICCProfile
+         </title>
+         <description>
+            <p>
+               Unoficial documentation of AssignICCProfile.
+               This is provided for convenience of users but there is no guarantee that is is complete or correct.
+               Use at you own risks. <br/>
+            </p>
+         </description>
+      </package>
+      <package fileName="ColorManagementSetup-doc.zip" sha1="c4576ed8aebbdef1ee8d35fe42adf00ed6cd4f74" type="documentation" releaseDate="20240926">
+         <title>
+            Unoficial documentation of ColorManagementSetup
+         </title>
+         <description>
+            <p>
+               Unoficial documentation of ColorManagementSetup.
+               This is provided for convenience of users but there is no guarantee that is is complete or correct.
+               Use at you own risks. <br/>
+            </p>
+         </description>
+      </package>
+      <package fileName="ICCProfileTransformation-doc.zip" sha1="2ce5060a63feecbfd65e16d2aa1d04fd14f098a2" type="documentation" releaseDate="20240926">
+         <title>
+            Unoficial documentation of ICCProfileTransformation
+         </title>
+         <description>
+            <p>
+               Unoficial documentation of ICCProfileTransformation.
+               This is provided for convenience of users but there is no guarantee that is is complete or correct.
+               Use at you own risks. <br/>
+            </p>
+         </description>
+      </package>
+      <package fileName="LinearFit-doc.zip" sha1="63238f5adaddcf593cac76ddb1954240e1bf17f0" type="documentation" releaseDate="20240926">
+         <title>
+            Unoficial documentation of LinearFit
+         </title>
+         <description>
+            <p>
+               Unoficial documentation of LinearFit.
+               This is provided for convenience of users but there is no guarantee that is is complete or correct.
+               Use at you own risks. <br/>
+            </p>
+         </description>
+      </package>
+      <package fileName="ProcessContainer-doc.zip" sha1="0411705f459f1763dad7a812254cbb39d4455061" type="documentation" releaseDate="20240926">
          <title>
             Unoficial documentation of Process Container
          </title>
@@ -35,7 +83,7 @@
             </p>
          </description>
       </package>
-      <package fileName="PixelMath-doc.zip" sha1="0c51effc0bd4f3a08a9db61bf90a6915d90b9db3" type="documentation" releaseDate="20240817">
+      <package fileName="PixelMath-doc.zip" sha1="a28aaab1755b425578771d4166dac40bfd3ed2ee" type="documentation" releaseDate="20240926">
          <title>
             Unoficial documentation of PixelMath
          </title>
@@ -49,4 +97,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="bitli" timestamp="2024-08-17T09:35:54.181Z" encoding="Base64">K6eM4N7fzHhmrihdZaolAtSMDdwUBjZWCx/x92XolB+/hJUNERJeY7JFVgNxo2KiXh6OPQft+ZFtBFVVcyXzCg==</Signature>
+<Signature developerId="bitli" timestamp="2024-09-26T12:35:15.974Z" encoding="Base64">U5pI67Jp/VGiXQyK6hnnlXFv5BrEGaAgTEKiVtQAhIhtwY+740h5y96DFhy2bknetS/x8PyiNM/WmDSoYa5+Bg==</Signature>
